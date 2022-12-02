@@ -1,0 +1,55 @@
+body{
+    background: gray;
+    font-family: fantasy;
+    text-align: center;
+    margin:auto;
+}
+h1{
+    background: white;
+    width: auto;
+}
+#boxp{
+    background: gray;
+    display: flex;
+    flex-direction: column;
+}
+.divp{
+    background: white;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+img{
+    width: 800px;
+    height: 600px;
+}
+.divt{
+    font-family: serif;
+    text-align: left;
+    margin-left: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 30%;
+    float: left;
+    font-size: 20px;
+    font-weight: 800;
+}
+.divf{
+    font-family: serif;
+    color: gray;
+    float: right;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 5px
+    
+}
+p{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 15px;
+    
+}
+strong{
+    font-size: 20px;
+}
